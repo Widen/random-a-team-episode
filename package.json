@@ -1,0 +1,14 @@
+{
+  "name": "A-Team Sprint Name Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Feltner",
+  "license": "MIT",
+  "dependencies": {
+    "random-to": "0.0.2"
+  }
+}
