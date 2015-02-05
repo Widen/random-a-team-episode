@@ -1,8 +1,3 @@
-# a-team_sprint-name-generator
-----
-
-Generate sprint names for the A-Team. Sprint names are based on actual A-Team episode names. 
-
 Simply grabs a random episode from a list of A-Team episodes. Can be filtered by season.
 
 # Usage:
